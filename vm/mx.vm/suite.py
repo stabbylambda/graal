@@ -19,7 +19,7 @@ suite = {
                 "dynamic": True,
                 "version": "58692da68706b64f85744ab70fdb4520069836e1",
                 "urls" : [
-                    {"url" : "https://github.com/oracle/js.git", "kind" : "git"},
+                    {"url" : "https://github.com/graalvm/graaljs.git", "kind" : "git"},
                     {"url": "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind": "binary"},
                 ]
             },
@@ -29,7 +29,7 @@ suite = {
                 "dynamic": True,
                 "version": "58692da68706b64f85744ab70fdb4520069836e1",
                 "urls": [
-                    {"url": "https://github.com/oracle/js.git", "kind" : "git"},
+                    {"url": "https://github.com/graalvm/graaljs.git", "kind" : "git"},
                     {"url": "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind": "binary"},
                 ]
             },
